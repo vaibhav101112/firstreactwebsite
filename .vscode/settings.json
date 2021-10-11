@@ -1,0 +1,6 @@
+{
+    "search.useGlobalIgnoreFiles": true,
+    "git.enableSmartCommit": true,
+    "git.fetchOnPull": true,
+    "git.enableCommitSigning": true
+}
